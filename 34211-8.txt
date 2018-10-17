@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of A Treatise on Physiology and Hygiene, by 
+The Project Gutenberg EBook of A Treatise on Physiology and Hygiene, by
 Joseph Chrisman Hutchison
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -1202,7 +1202,7 @@ there has been no awaking.
 [Sidenote: 32. Instances of sailors? French soldiers? During torture?]
 
 32. There are instances related of sailors falling asleep {40} on the
-gun-deck of their ships while in action. On the retreat from Moscow, the
+gun-decks of their ships while in action. On the retreat from Moscow, the
 French soldiers would fall asleep on the march, and could only be aroused
 by the cry, "The Cossacks are coming!" Tortured persons are said to have
 slept upon the rack in the intervals of their torture. In early life, while
@@ -1621,7 +1621,7 @@ eyes; tadpoles kept in the dark do not develop into frogs; men growing up
 in mines are sallow, pale, and deformed. Besides the well-known effect of
 solar light in tanning the skin, it also makes it thicker and better able
 to resist exposure; though the complexion may be thereby injured, the
-health gains more than compensates for the loss of beauty. "To make good
+health gains more than compensate for the loss of beauty. "To make good
 the loss of the lily, where the sun has cast his ray, he seldom fails to
 plant the rose."
 
@@ -3037,7 +3037,7 @@ and insalivated, it is swallowed; that is, it is propelled downward to the
 stomach, through a narrow muscular tube about nine inches in length, called
 the _oesophagus_, or gullet (Fig. 23). The stomach is the only large
 expansion of the digestive canal, and is the most important organ of
-digestion. It is a hollow, pear-shaped a pouch, having a capacity of three
+digestion. It is a hollow, pear-shaped pouch, having a capacity of three
 pints, in the adult. Its walls are thin and yielding, and may become
 unnaturally distended, as in the case of those who subsist on a bulky,
 innutritious diet, and of those who habitually gormandize.
@@ -9910,7 +9910,7 @@ Page 255, s.v. Convolutions. "external": 'extenal' in original.
 
 
 
-End of the Project Gutenberg EBook of A Treatise on Physiology and Hygiene, by 
+End of the Project Gutenberg EBook of A Treatise on Physiology and Hygiene, by
 Joseph Chrisman Hutchison
 
 *** END OF THIS PROJECT GUTENBERG EBOOK
